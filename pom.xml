@@ -41,12 +41,12 @@
 	<distributionManagement>
 
 		<repository>
-			<id>obu</id>
-			<url>http://localhost:8081/nexus/content/repositories/obu/</url>
+			<id>obs1</id>
+			<url>http://localhost:8081/nexus/content/repositories/obs1/</url>
 		</repository>
 		<snapshotRepository>
-			<id>obu1</id>			
-			<url>http://localhost:8081/nexus/content/repositories/obu1/</url>
+			<id>obs12</id>			
+			<url>http://localhost:8081/nexus/content/repositories/obs12/</url>
 		</snapshotRepository>		
   </distributionManagement>
 
